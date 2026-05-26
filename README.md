@@ -1,6 +1,6 @@
 # Thermography Analysis Dashboard
 
-![Dashboard Banner](images/dashboard_overview.png)
+![Dashboard Banner](https://github.com/D-CHAUDHARYY/Thermography-PowerBI-/blob/main/Thermography%20Dashboard.png)
 
 ## Overview
 
